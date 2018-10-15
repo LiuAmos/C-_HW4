@@ -1,0 +1,7 @@
+C:\Users\amos\Desktop\HW4-3\HW4-3\bin\Debug\HW4-3.exe.config
+C:\Users\amos\Desktop\HW4-3\HW4-3\bin\Debug\HW4-3.exe
+C:\Users\amos\Desktop\HW4-3\HW4-3\bin\Debug\HW4-3.pdb
+C:\Users\amos\Desktop\HW4-3\HW4-3\obj\Debug\HW4-3.csprojAssemblyReference.cache
+C:\Users\amos\Desktop\HW4-3\HW4-3\obj\Debug\HW4-3.csproj.CoreCompileInputs.cache
+C:\Users\amos\Desktop\HW4-3\HW4-3\obj\Debug\HW4-3.exe
+C:\Users\amos\Desktop\HW4-3\HW4-3\obj\Debug\HW4-3.pdb
